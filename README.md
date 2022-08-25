@@ -48,4 +48,3 @@ git achievements --help
 ```
 
 ## Misc
-Test update 2
